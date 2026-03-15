@@ -3,7 +3,7 @@
 
 If you want to only try it install `calc2.exe` if you want all the code just `git clone` it
 
-try it yourself, how obout 6+9
+try it yourself, how about 6+9
 
 <img left src="img/Pasted image.png">
-<img right src="img/Pasted image(2),png">
+<img right src="img/Pasted image(2).png">
